@@ -8,7 +8,7 @@
  * @width: grid's columns
  * @height: grid's rows
  *
- * by : laila tabourit
+ * by : khalil ouahmid
  * Return: pointer to grid,or NULL if any error
  */
 

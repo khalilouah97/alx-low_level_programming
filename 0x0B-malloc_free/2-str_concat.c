@@ -8,7 +8,7 @@
  * @s1: first string
  * @s2: second string
  *
- * by: laila tabourit
+ * by: khalil ouahmid
  * Return: the result string, or NULL if it fails
  */
 

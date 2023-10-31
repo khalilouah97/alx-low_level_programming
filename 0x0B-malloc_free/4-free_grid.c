@@ -8,7 +8,7 @@
  * @grid: 2D array
  * @height: grid rows
  *
- * by: laila tabourit
+ * by: khalil ouahmid
  * Return: nothing
  */
 void free_grid(int **grid, int height)

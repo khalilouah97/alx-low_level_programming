@@ -7,7 +7,7 @@
  * _strdup - duplicate string, or NULL if it fault
  * @str: string
  *
- * by: laial tabourit
+ * by: khalil ouahmid
  * Return: duplicated string,or NULL
  */
 

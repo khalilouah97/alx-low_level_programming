@@ -7,7 +7,7 @@
  * @size: size of array
  * @c: character
  *
- * by: laila tabourit
+ * by: khalil ouahmid
  * Return: pointer to the array, NULL if it fails
  */
 
