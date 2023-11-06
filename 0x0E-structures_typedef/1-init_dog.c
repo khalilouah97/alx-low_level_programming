@@ -6,9 +6,7 @@
  * @name: first member
  * @age : second member
  * @owner: third member
- *
- * by: lailitaaaa
- **/
+ */
 
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
