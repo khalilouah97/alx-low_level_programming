@@ -4,8 +4,6 @@
 /**
  * _strlen - return the length of string
  * @s: string
- *
- * by: lailitaa
  * Return: length of string
  */
 int _strlen(char *s)
@@ -24,8 +22,6 @@ int _strlen(char *s)
  * *_strcpy - copy the string
  * @b: pointer we want to copy
  * @a: string to be copied
- *
- * by: lailitaaaaaaaa
  * Return: pointer
  */
 char *_strcpy(char *b, char *a)
@@ -52,8 +48,6 @@ char *_strcpy(char *b, char *a)
  * @name: dog's name
  * @age: dog's age
  * @owner: dog's owner
- *
- * by: lailitaaa
  * Return: pointer
  */
 
